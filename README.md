@@ -6,7 +6,7 @@ me
   <style>
     body {
       text-align: center;
-      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background: url("https://github.com/carolyn-sanford/Carolyn/blob/main/lital-levy-f5jyMrOS3yo-unsplash.jpg?raw=true");
       background-size: cover;
       background-position: center;
       color: white;
@@ -27,8 +27,10 @@ me
   </style>
 </head>
 <body>
-  <img src="/assets/anna.png">
+  <img src="/https://github.com/carolyn-sanford/Carolyn/blob/main/View%20recent%20photos.jpeg.png?raw=true">
   <p>Hey there! I'm Carolyn, a San Diego-based  product designer. Say hello!</p>
   <input type="email" placeholder="Your email">
   <input type="submit">
 </body>
+
+//https://unsplash.com/photos/vehicles-on-road-beside-buildings-during-daytime-f5jyMrOS3yo?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
